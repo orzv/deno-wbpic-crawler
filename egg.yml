@@ -1,0 +1,8 @@
+name: wbpic-crawler
+description: Weibo pictures crawler
+stable: true
+version: 1.0.1
+files:
+  - ./mod.ts
+  - ./test.ts
+  - ./README.md
